@@ -4,12 +4,15 @@
 아래 링크의 해당 항목을 클릭하시면 그동안 올라온 질문과 답변 목록을 볼 수 있고, 분야별로 새로운 질문을 하실 수 있습니다.
 
 ## 기존 질문 답변 리스트
-  * [전체 리스트](https://github.com/osgeo-kr/qna/issues)
+  * [전체 리스트](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+is%3Aclosed)
+  * [QGIS](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=qgis+in%3Atitle%2Cbody)
+  * [GeoServer](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=geoserver+in%3Atitle%2Cbody)
+  * [GDAL](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=gdal+in%3Atitle%2Cbody)
 
 ## 각 SW 관련 질문
-  * [QGIS]()
-  * [GeoServer]()
-  * [GDAL]()
+  * [QGIS](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=qgis+in%3Atitle%2Cbody)
+  * [GeoServer](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=geoserver+in%3Atitle%2Cbody)
+  * [GDAL](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=gdal+in%3Atitle%2Cbody)
 
 ## 공간정보 관련 질문
   * [좌표계변환]()
