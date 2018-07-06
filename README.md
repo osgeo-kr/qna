@@ -14,7 +14,7 @@
   * [기타 질문](https://github.com/osgeo-kr/qna/issues/new?template=etc_qna.md)
   
 ## 기존 질문 답변 검색
-  * [전체 리스트](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+is%3Aclosed)
+  * [전체 리스트](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen%2Cclosed)
   * [QGIS](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=qgis+in%3Atitle%2Cbody)
   * [GeoServer](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=geoserver+in%3Atitle%2Cbody)
   * [GDAL](https://github.com/osgeo-kr/qna/issues?utf8=%E2%9C%93&q=gdal+in%3Atitle%2Cbody)
